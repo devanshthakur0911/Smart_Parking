@@ -1,0 +1,14 @@
+SMART PARK - WINDOWS (kuch install karne ki zaroorat nahi)
+-----------------------------------------------------------
+1. Zip ko Extract karo (right click -> Extract All)
+2. start.bat par double-click karo
+3. Browser me http://localhost:3000 khulega
+
+VS Code me: File -> Open Folder -> ye folder -> Ctrl+Shift+B
+
+Windows "protected your PC" bole -> More info -> Run anyway
+Port busy ho to start.bat me 3000 ki jagah koi aur number likho
+(aur server ke liye:  set PORT=4000  phir start.bat)
+
+Is package me: node\node.exe (Node 24, portable) aur engine\engine.exe
+(tumhare engine.cpp se bana). public\ folder (frontend) bilkul same hai.
